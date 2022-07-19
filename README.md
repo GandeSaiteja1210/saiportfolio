@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{galisaishankar08}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -93,4 +92,3 @@ Here are some ideas to get you started:
 
 ---
 
-⭐️ From [@SAI_SHANKAR](https://github.com/galisaishankar08)
